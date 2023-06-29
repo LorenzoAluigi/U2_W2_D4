@@ -25,6 +25,11 @@
   height: 100%;
 }
 
+.icon {
+  color: #e8bb88;
+  background-color: #ffeeda;
+}
+
 main {
   background-color: #f5f4f8;
 }
