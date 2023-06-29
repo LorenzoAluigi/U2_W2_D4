@@ -1,0 +1,35 @@
+$height-nav: 3em;
+$margin-nav: 0em 1em 0em 1em;
+
+// start nav
+#right-element {
+  img {
+    height: $height-nav;
+  }
+}
+
+#bell-container {
+  height: $height-nav;
+  width: $height-nav;
+  background-color: rgb(124, 123, 123);
+  @include flex-center;
+}
+
+#right-element {
+  img {
+    margin: $margin-nav;
+  }
+}
+
+// end nav
+// start Hero
+#hero {
+  background-color: #7550fe;
+  width: 100vw;
+}
+#img-hero-container {
+  img {
+    max-width: 90%;
+    height: 100%;
+  }
+}

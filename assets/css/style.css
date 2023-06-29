@@ -1,0 +1,30 @@
+#right-element img {
+  height: 3em;
+}
+
+#bell-container {
+  height: 3em;
+  width: 3em;
+  background-color: rgb(124, 123, 123);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#right-element img {
+  margin: 0em 1em 0em 1em;
+}
+
+#hero {
+  background-color: #7550fe;
+  width: 100vw;
+}
+
+#img-hero-container img {
+  max-width: 90%;
+  height: 100%;
+}
+
+main {
+  background-color: #f5f4f8;
+}
